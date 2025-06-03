@@ -91,7 +91,7 @@ The goal: **Help stakeholders and the public better understand who consumes: wha
 
     ---
     ## ☎️ Let's connect
-    If you're a recruite, analyst, or someone interested in energy data, feel free to reach out
+    If you're a recruiter, analyst, or someone interested in energy data, feel free to reach out
 
   - ☎️ Email: gbemiga100@gmail.com
   - LinkedIn: https://www.linkedin.com/in/oluwagbemiga-agbeje/
