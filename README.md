@@ -94,7 +94,7 @@ The goal: **Help stakeholders and the public better understand who consumes: wha
     If you're a recruiter, analyst, or someone interested in energy data, feel free to reach out
 
   - ☎️ Email: gbemiga100@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/oluwagbemiga-agbeje/
+  - LinkedIn address: https://www.linkedin.com/in/oluwagbemiga-agbeje/
 
  ---
   - [interact with the dashboard here](https://app.powerbi.com/groups/me/reports/bd488784-e455-4fec-8a51-a968bae34dd1/ReportSection88b0e6b57341c070270a?experience=power-bi)
